@@ -10,6 +10,6 @@ public class App {
         cuadrado.setLocationRelativeTo(null);   
         cuadrado.setVisible(true);
         //Manuel Maricon
-
+      //Mostrex
     }
 }
