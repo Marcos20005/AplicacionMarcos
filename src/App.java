@@ -9,7 +9,7 @@ public class App {
         cuadrado.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         cuadrado.setLocationRelativeTo(null);   
         cuadrado.setVisible(true);
-        
+        //Manuel Maricon
 
     }
 }
